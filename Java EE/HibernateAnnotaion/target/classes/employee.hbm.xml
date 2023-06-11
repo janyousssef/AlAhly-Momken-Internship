@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="com.javatpoint.mypackage.Employee" table="employee"  >
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"></property>
+		<property name="joinYear"></property>
+		<joined-subclass name="com.javatpoint.mypackage.JuniorEmployee">
+			  <key column="emp_id"></key>  
+			<property name="trainingPeriod" column="training_period"></property>
+			<property name="performance"></property>
+		</joined-subclass>
+
+		<joined-subclass name="com.javatpoint.mypackage.SeniorEmployee" >
+		  <key column="emp_id"></key>  
+			<property name="bonus"></property>
+			<property name="experience"></property>
+		</joined-subclass>
+
+	</class>
+
+</hibernate-mapping>

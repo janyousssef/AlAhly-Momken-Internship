@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.metadata.iml" filepath="$PROJECT_DIR$/.metadata/.metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.metadata1.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.metadata1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/demo/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/Spring/demo/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/Spring/CRUD/CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/Elgameya/Elgameya.iml" filepath="$PROJECT_DIR$/Java EE/Elgameya/Elgameya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/HibernateAnnotaion/HibernateAnnotaion.iml" filepath="$PROJECT_DIR$/Java EE/HibernateAnnotaion/HibernateAnnotaion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/Spring/SpringMVC/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/aop/aop.iml" filepath="$PROJECT_DIR$/Spring/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database training/database training.iml" filepath="$PROJECT_DIR$/database training/database training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/gtg/gtg.iml" filepath="$PROJECT_DIR$/Spring/gtg/gtg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/hibdemo/hibdemo.iml" filepath="$PROJECT_DIR$/Java EE/hibdemo/hibdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/jan/jan.iml" filepath="$PROJECT_DIR$/Java EE/jan/jan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/jpa training/jpa training.iml" filepath="$PROJECT_DIR$/Java EE/jpa training/jpa training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/src/main/main.iml" filepath="$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/demo/src/main/main1.iml" filepath="$PROJECT_DIR$/Spring/demo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/spring-boot-example-sts.zip_expanded/spring-boot-example-sts/src/main/main2.iml" filepath="$PROJECT_DIR$/Spring/spring-boot-example-sts.zip_expanded/spring-boot-example-sts/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/messenger/messenger.iml" filepath="$PROJECT_DIR$/Java EE/messenger/messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/myREST-easy/myREST-easy.iml" filepath="$PROJECT_DIR$/Java EE/myREST-easy/myREST-easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/spring/spring.iml" filepath="$PROJECT_DIR$/Spring/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/spring-boot-example-sts.zip_expanded/spring-boot-example-sts/src/test/test.iml" filepath="$PROJECT_DIR$/Spring/spring-boot-example-sts.zip_expanded/spring-boot-example-sts/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/demo/src/test/test1.iml" filepath="$PROJECT_DIR$/Spring/demo/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/src/test/test2.iml" filepath="$PROJECT_DIR$/Spring/actuatordemo.zip_expanded/actuatordemo/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/test/test3.iml" filepath="$PROJECT_DIR$/Spring/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE/webservices/webservices.iml" filepath="$PROJECT_DIR$/Java EE/webservices/webservices.iml" />
+    </modules>
+  </component>
+</project>
